@@ -46,7 +46,7 @@ p{
     transition: background-color 1s ease;
 }
 
-.hovered-button{
+.orange{
     width: 146px;
     height: 48px;
     border-radius: 25px;
@@ -55,4 +55,34 @@ p{
     padding: 0;
     background-color: #E28625;
     border: 1px solid white;
+    color: white;
+}
+
+.blue{
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    border: none;
+    margin: 0;
+    padding: 0;
+    background-color: #006971;
+    border: 1px solid white;
+    color: white;
+}
+
+.green{
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    border: none;
+    margin: 0;
+    padding: 0;
+    background-color: #004140;
+    border: 1px solid white;
+    color: white;
+}
+
+
+.svg{
+    margin-bottom: 20px;
 }
